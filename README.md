@@ -2,7 +2,7 @@
 
 # CDW Workshops - vHoL  
 
-Analyze Stored Data
+Analyze Stored Bananas
 
 ## Introduction
 This workshop gives you an overview of how to use the Cloudera Data Warehouse service to quickly explore raw data, create curated versions of the data for reporting and dashboarding, and then scale up usage of the curated data by exposing it to more users. It highlights the performance and automation capabilities that help ensure performance is maintained while controlling cost.  
